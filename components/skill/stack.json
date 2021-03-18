@@ -1,0 +1,14 @@
+{
+  "collectionName": "stack",
+  "info": {
+    "name": "stack",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
