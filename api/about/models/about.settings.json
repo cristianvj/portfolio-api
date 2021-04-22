@@ -26,11 +26,6 @@
       ],
       "plugin": "upload",
       "required": true
-    },
-    "stack": {
-      "type": "component",
-      "repeatable": true,
-      "component": "skill.stack"
     }
   }
 }
